@@ -12,6 +12,11 @@ NEXT_PUBLIC_APP_KEY=
 NEXT_PUBLIC_API_URL=
 ```
 
+![Environment Variables](readme_assets/env-vars.png)
+
+
+---
+
 Config more in `config/index.ts` file:   
 ```js
 export const APP_INFO: AppInfo = {
